@@ -9,3 +9,8 @@ h1 {
     color: red;
     margin: 20px 0;
 }
+
+h2 {
+    color: green;
+    text-align: right;
+}
